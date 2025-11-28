@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Shell
+    x:Class="KidsStoryApp.AppShell"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:views="clr-namespace:KidsStoryApp.Views"
+    Shell.FlyoutBehavior="Disabled">
+
+    <!-- 
+      Esta es la línea mágica. 
+      Le dice a la app que el contenido inicial es "WelcomePage".
+    -->
+    <ShellContent
+        Title="Bienvenida"
+        ContentTemplate="{DataTemplate views:WelcomePage}"
+        Route="WelcomePage" />
+
+</Shell>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:vm="clr-namespace:KidsStoryApp.ViewModels"
+             x:Class="KidsStoryApp.Views.PlayerPage"
+             Title="Tu Cuento"
+             BackgroundColor="#1A0A3A">
+
+    <Grid RowDefinitions="Auto, *">
+        <!-- Imagen Header (Placeholder) -->
+        <Frame Grid.Row="0" HeightRequest="200" Padding="0" CornerRadius="0" IsClippedToBounds="True">
+            <Image Source="dotnet_bot.png" Aspect="AspectFill" Opacity="0.8"/>
+        </Frame>
+
+        <!-- Texto del Cuento -->
+        <ScrollView Grid.Row="1" Padding="20">
+            <VerticalStackLayout Spacing="15">
+                <Label Text="{Binding Historia.Titulo}" 
+                       FontSize="28" 
+                       FontAttributes="Bold" 
+                       TextColor="#00FFFF" />
+
+                <Label Text="{Binding Historia.Texto}" 
+                       FontSize="18" 
+                       TextColor="White" 
+                       LineHeight="1.5" />
+            </VerticalStackLayout>
+        </ScrollView>
+    </Grid>
+</ContentPage>

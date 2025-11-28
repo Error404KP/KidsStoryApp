@@ -1,0 +1,435 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kp_error_404\\Desktop\\4TO CUATRIMESTRE\\KidsStoryApp\\KidsStoryApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6F4E567C-7FB8-4D13-8F3E-EA6B42DB7F8D}|KidsStoryApp\\KidsStoryApp.csproj|c:\\users\\kp_error_404\\desktop\\4to cuatrimestre\\kidsstoryapp\\kidsstoryapp\\kidsstoryapp\\viewmodels\\storyconfigviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F4E567C-7FB8-4D13-8F3E-EA6B42DB7F8D}|KidsStoryApp\\KidsStoryApp.csproj|solutionrelative:kidsstoryapp\\viewmodels\\storyconfigviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F4E567C-7FB8-4D13-8F3E-EA6B42DB7F8D}|KidsStoryApp\\KidsStoryApp.csproj|c:\\users\\kp_error_404\\desktop\\4to cuatrimestre\\kidsstoryapp\\kidsstoryapp\\kidsstoryapp\\views\\storyconfigpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6F4E567C-7FB8-4D13-8F3E-EA6B42DB7F8D}|KidsStoryApp\\KidsStoryApp.csproj|solutionrelative:kidsstoryapp\\views\\storyconfigpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F4E567C-7FB8-4D13-8F3E-EA6B42DB7F8D}|KidsStoryApp\\KidsStoryApp.csproj|c:\\users\\kp_error_404\\desktop\\4to cuatrimestre\\kidsstoryapp\\kidsstoryapp\\kidsstoryapp\\views\\storyconfigpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F4E567C-7FB8-4D13-8F3E-EA6B42DB7F8D}|KidsStoryApp\\KidsStoryApp.csproj|solutionrelative:kidsstoryapp\\views\\storyconfigpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F4E567C-7FB8-4D13-8F3E-EA6B42DB7F8D}|KidsStoryApp\\KidsStoryApp.csproj|c:\\users\\kp_error_404\\desktop\\4to cuatrimestre\\kidsstoryapp\\kidsstoryapp\\kidsstoryapp\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F4E567C-7FB8-4D13-8F3E-EA6B42DB7F8D}|KidsStoryApp\\KidsStoryApp.csproj|solutionrelative:kidsstoryapp\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F4E567C-7FB8-4D13-8F3E-EA6B42DB7F8D}|KidsStoryApp\\KidsStoryApp.csproj|c:\\users\\kp_error_404\\desktop\\4to cuatrimestre\\kidsstoryapp\\kidsstoryapp\\kidsstoryapp\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6F4E567C-7FB8-4D13-8F3E-EA6B42DB7F8D}|KidsStoryApp\\KidsStoryApp.csproj|solutionrelative:kidsstoryapp\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F4E567C-7FB8-4D13-8F3E-EA6B42DB7F8D}|KidsStoryApp\\KidsStoryApp.csproj|c:\\users\\kp_error_404\\desktop\\4to cuatrimestre\\kidsstoryapp\\kidsstoryapp\\kidsstoryapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F4E567C-7FB8-4D13-8F3E-EA6B42DB7F8D}|KidsStoryApp\\KidsStoryApp.csproj|solutionrelative:kidsstoryapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F4E567C-7FB8-4D13-8F3E-EA6B42DB7F8D}|KidsStoryApp\\KidsStoryApp.csproj|c:\\users\\kp_error_404\\desktop\\4to cuatrimestre\\kidsstoryapp\\kidsstoryapp\\kidsstoryapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6F4E567C-7FB8-4D13-8F3E-EA6B42DB7F8D}|KidsStoryApp\\KidsStoryApp.csproj|solutionrelative:kidsstoryapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F4E567C-7FB8-4D13-8F3E-EA6B42DB7F8D}|KidsStoryApp\\KidsStoryApp.csproj|c:\\users\\kp_error_404\\desktop\\4to cuatrimestre\\kidsstoryapp\\kidsstoryapp\\kidsstoryapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6F4E567C-7FB8-4D13-8F3E-EA6B42DB7F8D}|KidsStoryApp\\KidsStoryApp.csproj|solutionrelative:kidsstoryapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F4E567C-7FB8-4D13-8F3E-EA6B42DB7F8D}|KidsStoryApp\\KidsStoryApp.csproj|c:\\users\\kp_error_404\\desktop\\4to cuatrimestre\\kidsstoryapp\\kidsstoryapp\\kidsstoryapp\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6F4E567C-7FB8-4D13-8F3E-EA6B42DB7F8D}|KidsStoryApp\\KidsStoryApp.csproj|solutionrelative:kidsstoryapp\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F4E567C-7FB8-4D13-8F3E-EA6B42DB7F8D}|KidsStoryApp\\KidsStoryApp.csproj|c:\\users\\kp_error_404\\desktop\\4to cuatrimestre\\kidsstoryapp\\kidsstoryapp\\kidsstoryapp\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F4E567C-7FB8-4D13-8F3E-EA6B42DB7F8D}|KidsStoryApp\\KidsStoryApp.csproj|solutionrelative:kidsstoryapp\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F4E567C-7FB8-4D13-8F3E-EA6B42DB7F8D}|KidsStoryApp\\KidsStoryApp.csproj|c:\\users\\kp_error_404\\desktop\\4to cuatrimestre\\kidsstoryapp\\kidsstoryapp\\kidsstoryapp\\kidsstoryapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6F4E567C-7FB8-4D13-8F3E-EA6B42DB7F8D}|KidsStoryApp\\KidsStoryApp.csproj|solutionrelative:kidsstoryapp\\kidsstoryapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\9.0.304\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.EolTargetFrameworks.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F4E567C-7FB8-4D13-8F3E-EA6B42DB7F8D}|KidsStoryApp\\KidsStoryApp.csproj|c:\\users\\kp_error_404\\desktop\\4to cuatrimestre\\kidsstoryapp\\kidsstoryapp\\kidsstoryapp\\services\\mocktextgenerationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F4E567C-7FB8-4D13-8F3E-EA6B42DB7F8D}|KidsStoryApp\\KidsStoryApp.csproj|solutionrelative:kidsstoryapp\\services\\mocktextgenerationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F4E567C-7FB8-4D13-8F3E-EA6B42DB7F8D}|KidsStoryApp\\KidsStoryApp.csproj|c:\\users\\kp_error_404\\desktop\\4to cuatrimestre\\kidsstoryapp\\kidsstoryapp\\kidsstoryapp\\services\\azuretextgenerationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F4E567C-7FB8-4D13-8F3E-EA6B42DB7F8D}|KidsStoryApp\\KidsStoryApp.csproj|solutionrelative:kidsstoryapp\\services\\azuretextgenerationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F4E567C-7FB8-4D13-8F3E-EA6B42DB7F8D}|KidsStoryApp\\KidsStoryApp.csproj|c:\\users\\kp_error_404\\desktop\\4to cuatrimestre\\kidsstoryapp\\kidsstoryapp\\kidsstoryapp\\viewmodels\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F4E567C-7FB8-4D13-8F3E-EA6B42DB7F8D}|KidsStoryApp\\KidsStoryApp.csproj|solutionrelative:kidsstoryapp\\viewmodels\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F4E567C-7FB8-4D13-8F3E-EA6B42DB7F8D}|KidsStoryApp\\KidsStoryApp.csproj|c:\\users\\kp_error_404\\desktop\\4to cuatrimestre\\kidsstoryapp\\kidsstoryapp\\kidsstoryapp\\views\\playerpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F4E567C-7FB8-4D13-8F3E-EA6B42DB7F8D}|KidsStoryApp\\KidsStoryApp.csproj|solutionrelative:kidsstoryapp\\views\\playerpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F4E567C-7FB8-4D13-8F3E-EA6B42DB7F8D}|KidsStoryApp\\KidsStoryApp.csproj|c:\\users\\kp_error_404\\desktop\\4to cuatrimestre\\kidsstoryapp\\kidsstoryapp\\kidsstoryapp\\views\\playerpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6F4E567C-7FB8-4D13-8F3E-EA6B42DB7F8D}|KidsStoryApp\\KidsStoryApp.csproj|solutionrelative:kidsstoryapp\\views\\playerpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F4E567C-7FB8-4D13-8F3E-EA6B42DB7F8D}|KidsStoryApp\\KidsStoryApp.csproj|c:\\users\\kp_error_404\\desktop\\4to cuatrimestre\\kidsstoryapp\\kidsstoryapp\\kidsstoryapp\\views\\welcomepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F4E567C-7FB8-4D13-8F3E-EA6B42DB7F8D}|KidsStoryApp\\KidsStoryApp.csproj|solutionrelative:kidsstoryapp\\views\\welcomepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F4E567C-7FB8-4D13-8F3E-EA6B42DB7F8D}|KidsStoryApp\\KidsStoryApp.csproj|c:\\users\\kp_error_404\\desktop\\4to cuatrimestre\\kidsstoryapp\\kidsstoryapp\\kidsstoryapp\\views\\welcomepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6F4E567C-7FB8-4D13-8F3E-EA6B42DB7F8D}|KidsStoryApp\\KidsStoryApp.csproj|solutionrelative:kidsstoryapp\\views\\welcomepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F4E567C-7FB8-4D13-8F3E-EA6B42DB7F8D}|KidsStoryApp\\KidsStoryApp.csproj|c:\\users\\kp_error_404\\desktop\\4to cuatrimestre\\kidsstoryapp\\kidsstoryapp\\kidsstoryapp\\viewmodels\\welcomeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F4E567C-7FB8-4D13-8F3E-EA6B42DB7F8D}|KidsStoryApp\\KidsStoryApp.csproj|solutionrelative:kidsstoryapp\\viewmodels\\welcomeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F4E567C-7FB8-4D13-8F3E-EA6B42DB7F8D}|KidsStoryApp\\KidsStoryApp.csproj|c:\\users\\kp_error_404\\desktop\\4to cuatrimestre\\kidsstoryapp\\kidsstoryapp\\kidsstoryapp\\viewmodels\\playerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F4E567C-7FB8-4D13-8F3E-EA6B42DB7F8D}|KidsStoryApp\\KidsStoryApp.csproj|solutionrelative:kidsstoryapp\\viewmodels\\playerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F4E567C-7FB8-4D13-8F3E-EA6B42DB7F8D}|KidsStoryApp\\KidsStoryApp.csproj|c:\\users\\kp_error_404\\desktop\\4to cuatrimestre\\kidsstoryapp\\kidsstoryapp\\kidsstoryapp\\services\\itextgenerationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F4E567C-7FB8-4D13-8F3E-EA6B42DB7F8D}|KidsStoryApp\\KidsStoryApp.csproj|solutionrelative:kidsstoryapp\\services\\itextgenerationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F4E567C-7FB8-4D13-8F3E-EA6B42DB7F8D}|KidsStoryApp\\KidsStoryApp.csproj|c:\\users\\kp_error_404\\desktop\\4to cuatrimestre\\kidsstoryapp\\kidsstoryapp\\kidsstoryapp\\models\\configuracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F4E567C-7FB8-4D13-8F3E-EA6B42DB7F8D}|KidsStoryApp\\KidsStoryApp.csproj|solutionrelative:kidsstoryapp\\models\\configuracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F4E567C-7FB8-4D13-8F3E-EA6B42DB7F8D}|KidsStoryApp\\KidsStoryApp.csproj|c:\\users\\kp_error_404\\desktop\\4to cuatrimestre\\kidsstoryapp\\kidsstoryapp\\kidsstoryapp\\models\\historia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F4E567C-7FB8-4D13-8F3E-EA6B42DB7F8D}|KidsStoryApp\\KidsStoryApp.csproj|solutionrelative:kidsstoryapp\\models\\historia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F4E567C-7FB8-4D13-8F3E-EA6B42DB7F8D}|KidsStoryApp\\KidsStoryApp.csproj|c:\\users\\kp_error_404\\desktop\\4to cuatrimestre\\kidsstoryapp\\kidsstoryapp\\kidsstoryapp\\globalxmlns.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F4E567C-7FB8-4D13-8F3E-EA6B42DB7F8D}|KidsStoryApp\\KidsStoryApp.csproj|solutionrelative:kidsstoryapp\\globalxmlns.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 132,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 15,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\kp_error_404\\Desktop\\4TO CUATRIMESTRE\\KidsStoryApp\\KidsStoryApp\\KidsStoryApp\\MainPage.xaml",
+              "RelativeDocumentMoniker": "KidsStoryApp\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\kp_error_404\\Desktop\\4TO CUATRIMESTRE\\KidsStoryApp\\KidsStoryApp\\KidsStoryApp\\MainPage.xaml",
+              "RelativeToolTip": "KidsStoryApp\\MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-28T00:03:18.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MockTextGenerationService.cs",
+              "DocumentMoniker": "C:\\Users\\kp_error_404\\Desktop\\4TO CUATRIMESTRE\\KidsStoryApp\\KidsStoryApp\\KidsStoryApp\\Services\\MockTextGenerationService.cs",
+              "RelativeDocumentMoniker": "KidsStoryApp\\Services\\MockTextGenerationService.cs",
+              "ToolTip": "C:\\Users\\kp_error_404\\Desktop\\4TO CUATRIMESTRE\\KidsStoryApp\\KidsStoryApp\\KidsStoryApp\\Services\\MockTextGenerationService.cs",
+              "RelativeToolTip": "KidsStoryApp\\Services\\MockTextGenerationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T23:51:14.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\kp_error_404\\Desktop\\4TO CUATRIMESTRE\\KidsStoryApp\\KidsStoryApp\\KidsStoryApp\\App.xaml.cs",
+              "RelativeDocumentMoniker": "KidsStoryApp\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\kp_error_404\\Desktop\\4TO CUATRIMESTRE\\KidsStoryApp\\KidsStoryApp\\KidsStoryApp\\App.xaml.cs",
+              "RelativeToolTip": "KidsStoryApp\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T23:16:44.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Microsoft.NET.EolTargetFrameworks.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.304\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.EolTargetFrameworks.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.304\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.EolTargetFrameworks.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\9.0.304\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.EolTargetFrameworks.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.304\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.EolTargetFrameworks.targets",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-11-27T23:15:15.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\kp_error_404\\Desktop\\4TO CUATRIMESTRE\\KidsStoryApp\\KidsStoryApp\\KidsStoryApp\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "KidsStoryApp\\AppShell.xaml.cs",
+              "ToolTip": "C:\\Users\\kp_error_404\\Desktop\\4TO CUATRIMESTRE\\KidsStoryApp\\KidsStoryApp\\KidsStoryApp\\AppShell.xaml.cs",
+              "RelativeToolTip": "KidsStoryApp\\AppShell.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T23:15:04.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\kp_error_404\\Desktop\\4TO CUATRIMESTRE\\KidsStoryApp\\KidsStoryApp\\KidsStoryApp\\AppShell.xaml",
+              "RelativeDocumentMoniker": "KidsStoryApp\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\kp_error_404\\Desktop\\4TO CUATRIMESTRE\\KidsStoryApp\\KidsStoryApp\\KidsStoryApp\\AppShell.xaml",
+              "RelativeToolTip": "KidsStoryApp\\AppShell.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-27T23:14:56.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PlayerPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\kp_error_404\\Desktop\\4TO CUATRIMESTRE\\KidsStoryApp\\KidsStoryApp\\KidsStoryApp\\Views\\PlayerPage.xaml.cs",
+              "RelativeDocumentMoniker": "KidsStoryApp\\Views\\PlayerPage.xaml.cs",
+              "ToolTip": "C:\\Users\\kp_error_404\\Desktop\\4TO CUATRIMESTRE\\KidsStoryApp\\KidsStoryApp\\KidsStoryApp\\Views\\PlayerPage.xaml.cs",
+              "RelativeToolTip": "KidsStoryApp\\Views\\PlayerPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T23:14:28.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PlayerPage.xaml",
+              "DocumentMoniker": "C:\\Users\\kp_error_404\\Desktop\\4TO CUATRIMESTRE\\KidsStoryApp\\KidsStoryApp\\KidsStoryApp\\Views\\PlayerPage.xaml",
+              "RelativeDocumentMoniker": "KidsStoryApp\\Views\\PlayerPage.xaml",
+              "ToolTip": "C:\\Users\\kp_error_404\\Desktop\\4TO CUATRIMESTRE\\KidsStoryApp\\KidsStoryApp\\KidsStoryApp\\Views\\PlayerPage.xaml",
+              "RelativeToolTip": "KidsStoryApp\\Views\\PlayerPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-27T23:14:19.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StoryConfigPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\kp_error_404\\Desktop\\4TO CUATRIMESTRE\\KidsStoryApp\\KidsStoryApp\\KidsStoryApp\\Views\\StoryConfigPage.xaml.cs",
+              "RelativeDocumentMoniker": "KidsStoryApp\\Views\\StoryConfigPage.xaml.cs",
+              "ToolTip": "C:\\Users\\kp_error_404\\Desktop\\4TO CUATRIMESTRE\\KidsStoryApp\\KidsStoryApp\\KidsStoryApp\\Views\\StoryConfigPage.xaml.cs",
+              "RelativeToolTip": "KidsStoryApp\\Views\\StoryConfigPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T23:13:48.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StoryConfigPage.xaml",
+              "DocumentMoniker": "C:\\Users\\kp_error_404\\Desktop\\4TO CUATRIMESTRE\\KidsStoryApp\\KidsStoryApp\\KidsStoryApp\\Views\\StoryConfigPage.xaml",
+              "RelativeDocumentMoniker": "KidsStoryApp\\Views\\StoryConfigPage.xaml",
+              "ToolTip": "C:\\Users\\kp_error_404\\Desktop\\4TO CUATRIMESTRE\\KidsStoryApp\\KidsStoryApp\\KidsStoryApp\\Views\\StoryConfigPage.xaml",
+              "RelativeToolTip": "KidsStoryApp\\Views\\StoryConfigPage.xaml",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAwwCAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-27T23:13:36.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "WelcomePage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\kp_error_404\\Desktop\\4TO CUATRIMESTRE\\KidsStoryApp\\KidsStoryApp\\KidsStoryApp\\Views\\WelcomePage.xaml.cs",
+              "RelativeDocumentMoniker": "KidsStoryApp\\Views\\WelcomePage.xaml.cs",
+              "ToolTip": "C:\\Users\\kp_error_404\\Desktop\\4TO CUATRIMESTRE\\KidsStoryApp\\KidsStoryApp\\KidsStoryApp\\Views\\WelcomePage.xaml.cs",
+              "RelativeToolTip": "KidsStoryApp\\Views\\WelcomePage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T23:12:52.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "WelcomePage.xaml",
+              "DocumentMoniker": "C:\\Users\\kp_error_404\\Desktop\\4TO CUATRIMESTRE\\KidsStoryApp\\KidsStoryApp\\KidsStoryApp\\Views\\WelcomePage.xaml",
+              "RelativeDocumentMoniker": "KidsStoryApp\\Views\\WelcomePage.xaml",
+              "ToolTip": "C:\\Users\\kp_error_404\\Desktop\\4TO CUATRIMESTRE\\KidsStoryApp\\KidsStoryApp\\KidsStoryApp\\Views\\WelcomePage.xaml",
+              "RelativeToolTip": "KidsStoryApp\\Views\\WelcomePage.xaml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAQwC0AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-27T23:12:42.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\kp_error_404\\Desktop\\4TO CUATRIMESTRE\\KidsStoryApp\\KidsStoryApp\\KidsStoryApp\\App.xaml",
+              "RelativeDocumentMoniker": "KidsStoryApp\\App.xaml",
+              "ToolTip": "C:\\Users\\kp_error_404\\Desktop\\4TO CUATRIMESTRE\\KidsStoryApp\\KidsStoryApp\\KidsStoryApp\\App.xaml",
+              "RelativeToolTip": "KidsStoryApp\\App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-27T23:11:25.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PlayerViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\kp_error_404\\Desktop\\4TO CUATRIMESTRE\\KidsStoryApp\\KidsStoryApp\\KidsStoryApp\\ViewModels\\PlayerViewModel.cs",
+              "RelativeDocumentMoniker": "KidsStoryApp\\ViewModels\\PlayerViewModel.cs",
+              "ToolTip": "C:\\Users\\kp_error_404\\Desktop\\4TO CUATRIMESTRE\\KidsStoryApp\\KidsStoryApp\\KidsStoryApp\\ViewModels\\PlayerViewModel.cs",
+              "RelativeToolTip": "KidsStoryApp\\ViewModels\\PlayerViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T23:08:30.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StoryConfigViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\kp_error_404\\Desktop\\4TO CUATRIMESTRE\\KidsStoryApp\\KidsStoryApp\\KidsStoryApp\\ViewModels\\StoryConfigViewModel.cs",
+              "RelativeDocumentMoniker": "KidsStoryApp\\ViewModels\\StoryConfigViewModel.cs",
+              "ToolTip": "C:\\Users\\kp_error_404\\Desktop\\4TO CUATRIMESTRE\\KidsStoryApp\\KidsStoryApp\\KidsStoryApp\\ViewModels\\StoryConfigViewModel.cs",
+              "RelativeToolTip": "KidsStoryApp\\ViewModels\\StoryConfigViewModel.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAUwFgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T23:08:01.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "WelcomeViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\kp_error_404\\Desktop\\4TO CUATRIMESTRE\\KidsStoryApp\\KidsStoryApp\\KidsStoryApp\\ViewModels\\WelcomeViewModel.cs",
+              "RelativeDocumentMoniker": "KidsStoryApp\\ViewModels\\WelcomeViewModel.cs",
+              "ToolTip": "C:\\Users\\kp_error_404\\Desktop\\4TO CUATRIMESTRE\\KidsStoryApp\\KidsStoryApp\\KidsStoryApp\\ViewModels\\WelcomeViewModel.cs",
+              "RelativeToolTip": "KidsStoryApp\\ViewModels\\WelcomeViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T23:07:20.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BaseViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\kp_error_404\\Desktop\\4TO CUATRIMESTRE\\KidsStoryApp\\KidsStoryApp\\KidsStoryApp\\ViewModels\\BaseViewModel.cs",
+              "RelativeDocumentMoniker": "KidsStoryApp\\ViewModels\\BaseViewModel.cs",
+              "ToolTip": "C:\\Users\\kp_error_404\\Desktop\\4TO CUATRIMESTRE\\KidsStoryApp\\KidsStoryApp\\KidsStoryApp\\ViewModels\\BaseViewModel.cs",
+              "RelativeToolTip": "KidsStoryApp\\ViewModels\\BaseViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T23:06:43.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AzureTextGenerationService.cs",
+              "DocumentMoniker": "C:\\Users\\kp_error_404\\Desktop\\4TO CUATRIMESTRE\\KidsStoryApp\\KidsStoryApp\\KidsStoryApp\\Services\\AzureTextGenerationService.cs",
+              "RelativeDocumentMoniker": "KidsStoryApp\\Services\\AzureTextGenerationService.cs",
+              "ToolTip": "C:\\Users\\kp_error_404\\Desktop\\4TO CUATRIMESTRE\\KidsStoryApp\\KidsStoryApp\\KidsStoryApp\\Services\\AzureTextGenerationService.cs",
+              "RelativeToolTip": "KidsStoryApp\\Services\\AzureTextGenerationService.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAwCEAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T23:04:40.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ITextGenerationService.cs",
+              "DocumentMoniker": "C:\\Users\\kp_error_404\\Desktop\\4TO CUATRIMESTRE\\KidsStoryApp\\KidsStoryApp\\KidsStoryApp\\Services\\ITextGenerationService.cs",
+              "RelativeDocumentMoniker": "KidsStoryApp\\Services\\ITextGenerationService.cs",
+              "ToolTip": "C:\\Users\\kp_error_404\\Desktop\\4TO CUATRIMESTRE\\KidsStoryApp\\KidsStoryApp\\KidsStoryApp\\Services\\ITextGenerationService.cs",
+              "RelativeToolTip": "KidsStoryApp\\Services\\ITextGenerationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T23:03:57.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Configuracion.cs",
+              "DocumentMoniker": "C:\\Users\\kp_error_404\\Desktop\\4TO CUATRIMESTRE\\KidsStoryApp\\KidsStoryApp\\KidsStoryApp\\Models\\Configuracion.cs",
+              "RelativeDocumentMoniker": "KidsStoryApp\\Models\\Configuracion.cs",
+              "ToolTip": "C:\\Users\\kp_error_404\\Desktop\\4TO CUATRIMESTRE\\KidsStoryApp\\KidsStoryApp\\KidsStoryApp\\Models\\Configuracion.cs",
+              "RelativeToolTip": "KidsStoryApp\\Models\\Configuracion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T23:01:26.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Historia.cs",
+              "DocumentMoniker": "C:\\Users\\kp_error_404\\Desktop\\4TO CUATRIMESTRE\\KidsStoryApp\\KidsStoryApp\\KidsStoryApp\\Models\\Historia.cs",
+              "RelativeDocumentMoniker": "KidsStoryApp\\Models\\Historia.cs",
+              "ToolTip": "C:\\Users\\kp_error_404\\Desktop\\4TO CUATRIMESTRE\\KidsStoryApp\\KidsStoryApp\\KidsStoryApp\\Models\\Historia.cs",
+              "RelativeToolTip": "KidsStoryApp\\Models\\Historia.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T23:00:37.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "GlobalXmlns.cs",
+              "DocumentMoniker": "C:\\Users\\kp_error_404\\Desktop\\4TO CUATRIMESTRE\\KidsStoryApp\\KidsStoryApp\\KidsStoryApp\\GlobalXmlns.cs",
+              "RelativeDocumentMoniker": "KidsStoryApp\\GlobalXmlns.cs",
+              "ToolTip": "C:\\Users\\kp_error_404\\Desktop\\4TO CUATRIMESTRE\\KidsStoryApp\\KidsStoryApp\\KidsStoryApp\\GlobalXmlns.cs",
+              "RelativeToolTip": "KidsStoryApp\\GlobalXmlns.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T22:44:49.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\kp_error_404\\Desktop\\4TO CUATRIMESTRE\\KidsStoryApp\\KidsStoryApp\\KidsStoryApp\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "KidsStoryApp\\MauiProgram.cs",
+              "ToolTip": "C:\\Users\\kp_error_404\\Desktop\\4TO CUATRIMESTRE\\KidsStoryApp\\KidsStoryApp\\KidsStoryApp\\MauiProgram.cs",
+              "RelativeToolTip": "KidsStoryApp\\MauiProgram.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAkwEcAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T22:48:46.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "KidsStoryApp.csproj",
+              "DocumentMoniker": "C:\\Users\\kp_error_404\\Desktop\\4TO CUATRIMESTRE\\KidsStoryApp\\KidsStoryApp\\KidsStoryApp\\KidsStoryApp.csproj",
+              "RelativeDocumentMoniker": "KidsStoryApp\\KidsStoryApp.csproj",
+              "ToolTip": "C:\\Users\\kp_error_404\\Desktop\\4TO CUATRIMESTRE\\KidsStoryApp\\KidsStoryApp\\KidsStoryApp\\KidsStoryApp.csproj",
+              "RelativeToolTip": "KidsStoryApp\\KidsStoryApp.csproj",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAuwDwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-27T22:47:18.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\kp_error_404\\Desktop\\4TO CUATRIMESTRE\\KidsStoryApp\\KidsStoryApp\\KidsStoryApp\\appsettings.json",
+              "RelativeDocumentMoniker": "KidsStoryApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\kp_error_404\\Desktop\\4TO CUATRIMESTRE\\KidsStoryApp\\KidsStoryApp\\KidsStoryApp\\appsettings.json",
+              "RelativeToolTip": "KidsStoryApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-27T22:42:36.616Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

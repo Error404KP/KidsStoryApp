@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:vm="clr-namespace:KidsStoryApp.ViewModels"
+             x:Class="KidsStoryApp.Views.StoryConfigPage"
+             Title="Configurar Cuento"
+             BackgroundColor="#1A0A3A">
+
+    <ScrollView>
+        <VerticalStackLayout Spacing="20" Padding="25">
+
+            <Label Text="¿Sobre qué será el cuento?" TextColor="White" FontSize="18" FontAttributes="Bold"/>
+            <Frame BackgroundColor="#2D1B4E" BorderColor="Transparent" CornerRadius="10">
+                <Entry Text="{Binding Tema}" Placeholder="Ej: Un dragón programador" PlaceholderColor="#999" TextColor="White"/>
+            </Frame>
+
+            <Label Text="Edad del niño" TextColor="White" FontSize="18" FontAttributes="Bold"/>
+            <Frame BackgroundColor="#2D1B4E" BorderColor="Transparent" CornerRadius="10">
+                <Entry Text="{Binding Edad}" Keyboard="Numeric" TextColor="White"/>
+            </Frame>
+
+            <Label Text="Nombre del Protagonista" TextColor="White" FontSize="18" FontAttributes="Bold"/>
+            <Frame BackgroundColor="#2D1B4E" BorderColor="Transparent" CornerRadius="10">
+                <Entry Text="{Binding NombrePersonaje}" Placeholder="Ej: Ricky" PlaceholderColor="#999" TextColor="White"/>
+            </Frame>
+
+            <!-- Spinner de Carga -->
+            <ActivityIndicator IsRunning="{Binding IsBusy}" IsVisible="{Binding IsBusy}" Color="#00FFFF" />
+
+            <Button Text="✨ Generar Cuento Mágico ✨"
+                    Command="{Binding GenerarCuentoCommand}"
+                    IsEnabled="{Binding IsNotBusy}" 
+                    Margin="0,30,0,0"
+                    HeightRequest="60"
+                    CornerRadius="30"
+                    FontAttributes="Bold"
+                    FontSize="18">
+                <!-- 
+                     NOTA: Cambié la línea comentada // por IsEnabled="{Binding IsNotBusy}" 
+                     Esto deshabilitará el botón automáticamente cuando cargue, evitando doble clic.
+                -->
+                <Button.Background>
+                    <LinearGradientBrush StartPoint="0,0" EndPoint="1,0">
+                        <GradientStop Color="#FF0080" Offset="0.0"/>
+                        <GradientStop Color="#7928CA" Offset="1.0"/>
+                    </LinearGradientBrush>
+                </Button.Background>
+            </Button>
+
+        </VerticalStackLayout>
+    </ScrollView>
+</ContentPage>

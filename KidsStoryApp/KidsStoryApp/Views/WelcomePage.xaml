@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:vm="clr-namespace:KidsStoryApp.ViewModels"
+             x:Class="KidsStoryApp.Views.WelcomePage"
+             Title="Bienvenido"
+             BackgroundColor="#1A0A3A">
+    <!-- Fondo oscuro estilo espacial -->
+
+    <Grid RowDefinitions="*, Auto, Auto" Padding="30">
+        <!-- Imagen o Logo decorativo -->
+        <Image Grid.Row="0"
+               Source="dotnet_bot.png"
+               HeightRequest="200"
+               HorizontalOptions="Center"
+               VerticalOptions="Center" />
+
+        <Label Grid.Row="1"
+               Text="¡Crea Cuentos Mágicos!"
+               FontSize="32"
+               FontAttributes="Bold"
+               TextColor="White"
+               HorizontalOptions="Center"
+               HorizontalTextAlignment="Center"
+               Margin="0,0,0,20" />
+
+        <!-- Botón con degradado -->
+        <Button Grid.Row="2"
+                Text="Comenzar Aventura"
+                Command="{Binding IniciarCommand}"
+                FontSize="18"
+                FontAttributes="Bold"
+                CornerRadius="25"
+                HeightRequest="60"
+                Margin="0,0,0,50">
+            <Button.Background>
+                <LinearGradientBrush StartPoint="0,0" EndPoint="1,0">
+                    <GradientStop Color="#8A2BE2" Offset="0.0"/>
+                    <!-- Violeta -->
+                    <GradientStop Color="#00FFFF" Offset="1.0"/>
+                    <!-- Cyan -->
+                </LinearGradientBrush>
+            </Button.Background>
+        </Button>
+    </Grid>
+</ContentPage>
